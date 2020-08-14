@@ -1,7 +1,7 @@
-#Name
+# Name
 DjangoProject
 
-##Description
+# Description
 Developed API using django rest framework.
 
 # Technologies
@@ -9,5 +9,5 @@ Developed API using django rest framework.
 -Django 
 -Django Rest Framework
 
-#Author info
+# Author info
 -vishalhande
