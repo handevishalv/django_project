@@ -7,6 +7,7 @@ from .models import Members,ActivityPeriods
 #third commit
 #fourth commit
 #fifith commit
+#sixth commit
 admin.site.register(Members)
 admin.site.register(ActivityPeriods)
 
